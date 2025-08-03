@@ -146,7 +146,7 @@
     },
     
      "WELCOME": {
-      "description": "Set Group welcome massage",
+      "description": "hello welcome to our communty",
       "required": true,
       "value": "true"
     },
